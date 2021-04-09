@@ -1,12 +1,11 @@
 # Pyber_Analysis
-
-##Overview of Analysis:
+## Overview of Analysis:
 
 Purpose
 1.  Create a summary DataFrame of PyBer's  ride-sharing data by city type utilizing Python and Pandas
 2.  Create a multiple-line graph that shows the total weekly fares for each city type utilizing Pandas and Matplotlib.
 
-##Results:
+## Results:
 
 The PyBer Summary DataFrame created displays Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver based on the type of city - Rural, Suburban, or Urban.  
 
@@ -14,7 +13,7 @@ Based on the data gathered in the DataFrame, Urban cities had far more total rid
 
 The multi-line graph showing Total Fare by City Type clearly illustrates that Urban Cities are by far the biggest overall revenue drivers while Rural cities produce the least amount of revenu, and the three type of cities show similar peaks and dips between the months of January and April.  
 
-##Summary
+## Summary
 
 The recommendation would be to maintain the amount of drivers in Urban areas, but consider inreasing the fares to maximize revenue and increase profit.  While increasing fares, monitor the impact on number of rides to see if it causes a negative trend.
 
